@@ -3,6 +3,10 @@
 
 * Images for use in the project SSC.
 
+# Begin
+
+* 17/04/2017
+
 # Authors
 
 ```
